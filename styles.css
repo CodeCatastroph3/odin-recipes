@@ -1,0 +1,44 @@
+/* styles.css */
+
+div {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: red;
+}
+
+h1 {
+	background-color: lightblue;
+	margin: 0 auto;
+}
+
+body {
+	background-color: lightpink;
+}
+
+*{
+	outline: 2px solid red;
+}
+
+#Picture {
+    width: 300px;
+	margin: 10px ;
+	outline: 2px solid blue;
+}
+
+#Picture.frontPage{
+	display: inline-block;
+	padding:10px;
+	margin: 10px 20px 30px;
+}
+
+li {
+	font-family:"Times New Roman",Times, Serif;
+	font-weight: bold;
+	font-size: 30px;
+	margin: wrap-text;
+	padding: 10px;
+	border: 5px;
+}
